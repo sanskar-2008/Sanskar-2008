@@ -1,11 +1,11 @@
 <h1 align="left">Hey 👋 I'm Sanskar</h1>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sanskar-2008&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sanskar-2008&label=Profile+Views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/sanskar-2008?label=Followers&style=flat&color=0e75b6" />
 </p>
 
-<p align="left">Android developer specializing in building scalable, high-performance mobile applications.</p>
+<p>Android developer building scalable, high-performance mobile apps.</p>
 
 ---
 
@@ -36,12 +36,12 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanskar-2008&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanskar-2008&theme=tokyonight&hide_border=true" width="48%" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sanskar-2008&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=sanskar-2008&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskar-2008&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="50%" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskar-2008&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" />
 </p>
 
 ---
